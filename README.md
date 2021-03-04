@@ -7,6 +7,6 @@ GIF Creator programmed with Python
 
 - Simply assaign your Desired video clip to "clip" variable by Placeing file where it reads "VIDEO FILE HERE".
 
-- if the clip is successfully created into a GIF will output "Done!" in the terminal and your GIF will appear in the same directory.
+- if the clip is successfully created into a GIF, the terminal will output "Done!" and your GIF will appear in the same directory.
 
 Thanks! -August

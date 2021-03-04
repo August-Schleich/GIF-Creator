@@ -20,3 +20,6 @@ def gif_maker(input_path,target_format):
     writer.close()
 
 gif_maker(clip,'.gif')
+
+
+

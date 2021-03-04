@@ -1,7 +1,7 @@
 import imageio
 import os
 
-clip = os.path.abspath('IMG_0223.MOV')
+clip = os.path.abspath('VIDEO FILE HERE')
 
 def gif_maker(input_path,target_format):
     output_path = os.path.splitext(input_path)[0] + target_format
@@ -20,7 +20,7 @@ def gif_maker(input_path,target_format):
     writer.close()
 
 
-    
+gif_maker(clip,'.gif')
 
 
 

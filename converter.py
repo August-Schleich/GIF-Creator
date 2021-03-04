@@ -19,7 +19,8 @@ def gif_maker(input_path,target_format):
     print('Done!')
     writer.close()
 
-gif_maker(clip,'.gif')
+
+
 
 
 
